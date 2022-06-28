@@ -1,0 +1,4 @@
+# The AAA Pattern :
+1.Arrange --> Define the testing environment & values
+2.Act --> Run the acual code | functions that should be tested
+3.Assert --> Evaluate the produced value result and compare it with expected value
