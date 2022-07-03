@@ -2,3 +2,13 @@
 1.Arrange --> Define the testing environment & values
 2.Act --> Run the acual code | functions that should be tested
 3.Assert --> Evaluate the produced value result and compare it with expected value
+
+
+# What should & shouldn't be tested
+- Only test your code
+- Don't test third-party code like "Browser api, native node module code, etc.."
+
+# Writing a goof tests
+- Follow AAA pattern
+- Your test should only one unit or behavior
+- 
