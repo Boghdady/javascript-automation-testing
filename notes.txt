@@ -11,4 +11,7 @@
 # Writing a goof tests
 - Follow AAA pattern
 - Your test should only one unit or behavior
-- 
+
+# The Diffs between toBe() and toEquals()
+- toBe() should pathed value equal to expected value, so if the pathed value is object it will fails because the refrence in objects
+- toEquals() will make a deep comparison
