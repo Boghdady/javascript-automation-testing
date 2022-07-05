@@ -15,3 +15,8 @@
 # The Diffs between toBe() and toEquals()
 - toBe() should pathed value equal to expected value, so if the pathed value is object it will fails because the refrence in objects
 - toEquals() will make a deep comparison
+
+# We uses Spies & Mocks
+- To dealing with side effects & External Dependencies
+Spies => Wrappers around functions or empty replacements for functions that allow you track if & how a function was called 
+Mocks => A replacement for an API that may provide some test-specific behavior instead 
