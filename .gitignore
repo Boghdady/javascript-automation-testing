@@ -3,3 +3,4 @@ basic-testing-nodejs/node_modules/
 basic-testing-nodejs-esmodules/node_modules/
 integration-test/node_modules/
 async-testing/node_modules/
+spies-mocks/node_modules/
