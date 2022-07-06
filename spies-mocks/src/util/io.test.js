@@ -2,7 +2,7 @@ import { it, expect } from 'vitest';
 import writeData from './io';
 
 // Here is we have a side effect :  we write data on hard drive and that no the effiecnt thing
-// so we will use
+// so we will use Spies or Mocks
 it('should excute the writeFile method', () => {
   const data = 'test dummy data';
   const filename = 'dummyData.txt';
